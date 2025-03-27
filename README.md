@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ayush-negi
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning ML, Data science and IOT
+- 🌱 I’m currently learning Full stack development (Backend - Java( Spring boot))
+
 
 
 <!---
