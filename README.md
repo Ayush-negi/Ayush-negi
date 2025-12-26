@@ -3,7 +3,7 @@
 - I'm working as a developer for Robert Bosch Engineering with 3 years of experience.
 - I've worked for customers like Volvo, MAN, Traton, Scania, Daimler and Trudell Medical International.
 - Currently developing skills in full stack and looking for new career opportunities in the Backend - Java( Spring boot)
-- 🌱 I’m currently learning Full stack development (Backend - Java( Spring boot))
+- 🌱 I’m currently learning Full stack development (Backend - Java( Spring boot), GenAI , Mern Stack)
 
 
 
